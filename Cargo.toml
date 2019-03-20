@@ -1,7 +1,0 @@
-[package]
-name = "TM"
-version = "0.1.0"
-authors = ["orenwf <oren.friedman07@myhunter.cuny.edu>"]
-edition = "2018"
-
-[dependencies]
