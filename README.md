@@ -11,3 +11,5 @@
 - `'R'` and `'L'` for left/right directions on a transition
 
 Have fun!
+
+O(n<sup>3</sup>)
